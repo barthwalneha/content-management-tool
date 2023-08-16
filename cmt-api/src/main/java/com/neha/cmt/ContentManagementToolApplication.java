@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ContentManagementToolApplication {
 
 	public static void main(String[] args) {
+		//Hello
 		SpringApplication.run(ContentManagementToolApplication.class, args);
 	}
 
